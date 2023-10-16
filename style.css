@@ -1,0 +1,27 @@
+body 
+{
+    background: url("mb.webp");
+    background-size: cover;
+    color: white;
+}
+
+h1
+{
+    background-color: blue;
+    font-style: oblique;
+}
+
+h5
+{
+    background-color: purple;
+}
+
+canvas
+{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border: white;
+    margin: 10px;
+    padding: 0px;
+}
